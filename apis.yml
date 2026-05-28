@@ -1,0 +1,32 @@
+aid: the-report-of-the-week
+name: The Report of the Week
+description: "Food & Drink Reviews"
+url: https://github.com/andyklimczak/TheReportOfTheWeek-API
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Food & Drink"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Food And Drink
+  - Public APIs
+apis:
+  - name: The Report of the Week
+    description: "Food & Drink Reviews"
+    humanURL: https://github.com/andyklimczak/TheReportOfTheWeek-API
+    baseURL: https://github.com/andyklimczak/TheReportOfTheWeek-API
+    tags:
+      - Food And Drink
+    properties:
+      - type: Documentation
+        url: https://github.com/andyklimczak/TheReportOfTheWeek-API
+common:
+  - type: Website
+    url: https://github.com/andyklimczak/TheReportOfTheWeek-API
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
